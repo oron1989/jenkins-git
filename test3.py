@@ -1,1 +1,1 @@
-echo "oron mizrahi"
+print ("oron mizrahi")
